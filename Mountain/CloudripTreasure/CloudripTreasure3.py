@@ -15,7 +15,7 @@ def pickUpNearestItem(items):
 
 
 # add soldier
-summonTypes = ['soldier', 'soldier', 'soldier', 'soldier', 'paladin']
+summonTypes = ['soldier', 'soldier', 'soldier', 'soldier']
 
 
 def summonTroops():
